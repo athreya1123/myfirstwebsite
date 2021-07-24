@@ -1,0 +1,264 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.bg{
+    background-image: url(../webdev/bg.jpg);
+    background-size: cover;
+    overflow: hidden;
+    height: 30px;
+    
+    
+}
+
+#mainhead{
+    text-align: center;
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 50;
+    float: left;
+    letter-spacing: 8px; 
+    padding-left: 40px;
+    padding-top: 150px;
+  
+}
+.nav{
+    font-size: 22px;
+    word-spacing: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    padding-top:20px;
+    padding-right: 20px;
+    float: right;
+    
+    
+}
+.link{
+    text-decoration: none;
+    color: white;
+    word-spacing: 0px;
+}
+#tag{
+    font-size: 10px;
+    letter-spacing: 5px;
+    color: grey;
+
+}
+#fn{
+    margin-bottom: 0px; 
+}
+#ln{
+    margin-bottom: 0%;
+    margin-top: 0% ;
+    padding-top: 10px;
+}
+
+
+#icon{
+    float: left;
+    padding-top: 0px;
+    
+}
+#aboutbody{
+    background-color: black;
+    color: grey;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 10;
+    font-size: 20px;
+    
+}
+#me{
+    height: 500px; 
+    margin-top: 0%;
+}
+
+nav a:hover{
+    color: rgb(167, 167, 167);
+    
+}
+.pbody{
+    background-color: black;
+    color: darkgrey;
+    font-family:  monospace;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 6px;
+    font-weight: 100;
+}
+.pdiv{
+    margin: 30px 30px 30px 30px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(54, 54, 54);
+    width: 1435px;
+    height: 1900px;
+    border-radius: 20px;
+    position: relative;
+}
+#rob{
+    position: absolute;
+    left: 20px;
+    top: 35px;
+}
+#gc{
+    position: absolute;
+    left: 350px;
+}
+#wp{
+    position: absolute;
+    left: 350px;
+    top: 300px;
+}
+#rt{
+    position: absolute;
+    top: 65px;
+    right: 360px;
+}
+#ap{
+    position: absolute;
+    right: 35px;
+    top: 65px;
+}
+#bf{
+    position: absolute;
+    top: 560px;
+    right: 50px;
+}
+#sm{
+    position: absolute;
+    top: 600px;
+    left: 450px;
+}
+#ipf{
+    position: absolute;
+    top: 600px;
+    left: 20px;
+}
+#lb{
+    position: absolute;
+    top: 900px;
+    left: 20px;
+}
+#ce{
+    position: absolute;
+    bottom: 425px;
+    left: 450px;
+}
+#gbe{
+    position: absolute;
+    bottom: 425px;
+    left:20px ;
+}
+#oht{
+    position: absolute;
+    bottom: 470px;
+    right: 50px;
+}
+#wtk{
+    position: absolute;
+    right: 50px;
+    bottom: 30px;
+}
+#sq2{
+    position: absolute;
+    bottom: 30px;
+    left: 90px;
+}
+#cbody{
+    background-color: black;
+    color: white;
+   
+}
+form{
+    color: white;
+}
+#cbody h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0%;
+    margin-top: 0%;
+    color: rgb(223, 217, 217);
+    font-weight: 500;
+}
+form{
+    text-align: center;
+    color: grey;
+}
+#nam{
+    padding: 20px 30px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    font-size: 30px;
+    font-family: monospace;
+    }
+#name{
+    position: absolute;
+    left: 430px;
+    top: 170px;
+    height: 40px;
+    width: 300px;
+    font-size: 100%;
+    background-color: rgb(223, 217, 217);
+
+}    
+#mail{
+    padding: 20px 30px;
+    position: absolute;
+    right: 600px;
+    top: 100px;
+    font-size: 30px;
+    font-family: monospace;
+
+}
+#email{
+    position: absolute;
+    bottom: 20px;
+    left: 820px;
+    top: 170px;
+    height: 40px;
+    width: 300px;
+    font-size: 100%;
+    background-color: rgb(223, 217, 217);
+
+}
+
+#message{
+    padding: 20px 30px;
+    position: absolute;
+    left: 400px;
+    top: 250px;
+    font-size: 30px;
+    font-family: monospace;
+}
+#mess{
+    position: absolute;
+    bottom: 20px;
+    left: 430px;
+    top: 320px;
+    height: 300px;
+    width: 700px;
+    font-size: 100%;
+    background-color: rgb(223, 217, 217);
+
+}
+
+#submit{
+    position: absolute;
+    bottom: 50px;
+    left: 47%;
+    height: 40px;
+    width: 100px;
+    padding: 0px;
+    font-size: 100%;
+    background-color: rgb(223, 217, 217);
+    }
+
+
+
+
+
+
